@@ -1,0 +1,12 @@
+{
+    "name": "s-kamiaka/php-redis-session-sandbox",
+    "require": {
+        "predis/predis": "^1.1"
+    },
+    "authors": [
+        {
+            "name": "Shinya Kamiaka",
+            "email": "s-kamiaka@sakura.ad.jp"
+        }
+    ]
+}

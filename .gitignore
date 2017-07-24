@@ -1,0 +1,3 @@
+# composer package lock file and vendor directory
+/composer.lock
+/vendor/
